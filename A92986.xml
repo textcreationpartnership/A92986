@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several letters to the Honoble William Lenthal Esq; Speaker to the Honorable House of Commons. Concerning the gallant proceedings of Sir Tho. Fairfax army in the west. Viz. the surrendering up of Exeter on this present Monday: the taking of 80 prisoners, with the works and line about Pendennis Castle by Col. Hamond; the taking of 60 prisoners of the Mount, which is the greater part of that garrison; and the probability of the delivery up of Barnstable. Also very good news from Ireland. Appointed by the Honorable William Lenthal Esq; Speaker to the Honorable House of Commons, to be forthwith printed and published.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92986</idno>
+            <idno type="STC">Wing S2781</idno>
+            <idno type="STC">Thomason E333_5</idno>
+            <idno type="STC">ESTC R200743</idno>
+            <idno type="EEBO-CITATION">99861407</idno>
+            <idno type="PROQUEST">99861407</idno>
+            <idno type="VID">159644</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92986)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159644)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E333[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several letters to the Honoble William Lenthal Esq; Speaker to the Honorable House of Commons. Concerning the gallant proceedings of Sir Tho. Fairfax army in the west. Viz. the surrendering up of Exeter on this present Monday: the taking of 80 prisoners, with the works and line about Pendennis Castle by Col. Hamond; the taking of 60 prisoners of the Mount, which is the greater part of that garrison; and the probability of the delivery up of Barnstable. Also very good news from Ireland. Appointed by the Honorable William Lenthal Esq; Speaker to the Honorable House of Commons, to be forthwith printed and published.</title>
+                  <author>Lenthall, William, 1591-1662.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Husband, printer to the Honorable House of Commons.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>April 13. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Exeter (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159644:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 15 -->
+            <p>SEVERAL LETTERS To the Hono<hi rend="sup">ble</hi> 
+               <hi>William Lenthal</hi> 
+               <abbr>Eſq</abbr> Speaker to the Honorable Houſe of Commons.</p>
+            <p>Concerning The Gallant Proceedings of Sir <hi>Tho. Fairfax</hi> Army in the WEST.</p>
+            <p>
+               <hi>VIZ.</hi> The SURRENDERING up of EXETER On this preſent MONDAY: The taking of 80 priſoners, with the Works and Line about <hi>Pendennis</hi> Caſtle by Col. <hi>Hamond;</hi> the taking of 60 Priſoners of the Mount, which is the greater part of that Garriſon; And the probability of the Delivery up of BARNSTABLE.</p>
+            <p>Alſo very good News from IRELAND.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>APpointed by the Honorable</hi> William Lenthal <hi>
+                              <abbr>Eſq</abbr> Speaker to the Honorable Houſe of Commons, to be forthwith printed and publiſhed.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>London: Printed for EDW. HUSBAND, Printer to the Honorable Houſe of Commons. April 13. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:159644:2"/>
+            <!-- PDF PAGE 16 -->
+            <pb n="3" facs="tcp:159644:2"/>
+            <!-- PDF PAGE 16 -->
+            <head>To the Honorable <hi>William Lenthal</hi> 
+               <abbr>Eſq</abbr> Speaker to the Honorable Houſe of Commons.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Suppoſe you did think before this to have received News of the Surrender of <hi>Exe<g ref="char:EOLhyphen"/>ter,</hi> conſidering the time ſince the Treaty began: I cannot ſay two hours hath been loſt ſince the firſt entrance upon the ſame. The Commiſſioners having ſate two nights together, beſides the ſeveral dayes in debating the buſineſſe with the other Commiſſioners, hoping to have compleated the Articles; but ſuch were the Devices of ſome of the Enemies part, in ordering of their Articles, and putting many needleſſe Quaeres, eſpecially concern<g ref="char:EOLhyphen"/>ing the Church and Cathedral, that it neceſſitated a con<g ref="char:EOLhyphen"/>ſumption of time; and when any were in a manner con<g ref="char:EOLhyphen"/>cluded, ſome further ſatisfaction was to be given, con<g ref="char:EOLhyphen"/>cerning ſome things they ſtood upon, which I ſhall for<g ref="char:EOLhyphen"/>bear to mention till the Articles themſelves come up unto you; I onely obſerve this, That the giving ſo large Conditions to <hi>Aſhby de la Zouch,</hi> begot an expectation, nay, an aſſurance in thoſe in <hi>Exeter</hi> to obtain the ſame, which hath been the principal cauſe in the prolonging of this Treaty, that it came no ſooner to maturity, which now is perfected: The Conditions are Honorable, yet no other then becomes a Souldier to grant, and which the place (conſidering the conſequence in the timely Sur<g ref="char:EOLhyphen"/>render thereof) might expect or hope for; This being as it were the cloſing of our buſineſſe in the Weſt, will
+<pb n="4" facs="tcp:159644:3"/>
+               <!-- PDF PAGE 17 -->ſet the Army wholly at liberty, to attend the more pub<g ref="char:EOLhyphen"/>like Affairs of the Kingdom in the other parts of it, which are yet annoyed by the Enemy: For <hi>Barnſtable,</hi> we have aſſurance it will not diſpute it with us; and if they ſhould, the Town being already quitted, the Forces raiſed in this County, are ſufficient to reduce that Caſtle and Fort, and ſo not ingage the leaving of any part of this Army. I have ſtaid this Meſſenger theſe four days, being unwilling he ſhould come till the Treaty was fi<g ref="char:EOLhyphen"/>niſhed. Two Forts are this day to be delivered into the Generals hands, and four perſons of quality for Hoſta<g ref="char:EOLhyphen"/>ges beſides, for the Surrender of the Town on Monday next: The Articles are many and long, and alterations have been made, ſo that I ſhall not preſume to mention any thing of them until they come up. The Fort of <hi>Ilford-Come</hi> was gained by Storm the other day. Colonel <hi>Sheffield</hi> commanded a party which were led on by Lieu<g ref="char:EOLhyphen"/>tenant Colonel <hi>Harris.</hi> The Governour and all his men are Priſoners; ſome ſlain. I take my leave, and reſt.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>April</hi> 9. 1646.</date>
+               </dateline>
+               <signed>
+                  <hi>Cullomb John.</hi> Your humble Servant.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>To the Honorable <hi>William Lenthal</hi> 
+               <abbr>Eſq</abbr> Speaker to the Ho<g ref="char:EOLhyphen"/>norable Houſe of <hi>COMMONS.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Writ to you this morning, that it was agreed unto by the Commiſſioners of the Treaty, to deliver <hi>Exeter</hi> on Monday; and in aſſurance thereof, to give four per<g ref="char:EOLhyphen"/>ſons of quality as hoſtages, and to ſurrender two Forts. This Agreement was compleated this Afternoon, by de<g ref="char:EOLhyphen"/>livering up the Fort and Hoſtages, and the <hi>Exeter</hi> Com<g ref="char:EOLhyphen"/>miſſioners came in perſon to ſee the General ſigne the Articles, as ours did go to Sir <hi>John Berkley</hi> to ſee him
+<pb n="5" facs="tcp:159644:3"/>
+               <!-- PDF PAGE 17 -->ſigne them: There is very good correſpondency; they depend much on our Faith in performing Articles, which I dare ſay will be punctually obſerved. The Ge<g ref="char:EOLhyphen"/>neral had no ſooner ſetled this, but he removed late this Evening to <hi>Tiverton,</hi> to be early to morrow at <hi>Barnſtable,</hi> when the Summons goes in; and I hope, before Mon<g ref="char:EOLhyphen"/>day that he return to <hi>Exeter,</hi> to have an aſſurande of Surrender of <hi>Barnſtable,</hi> if not actually done by then. Thus much I thought fit further to certifie you by this expreſſe, for your better ſatisfaction in our proceedings: Having no more to trouble you withal, I take my leave and reſt</p>
+            <closer>
+               <signed>Your moſt humble and faithful Servant, <hi>J. R.</hi>
+               </signed>
+               <dateline>
+                  <date>
+                     <hi>April</hi> 9. 1646.</date> paſt 12. at night, <hi>Tiverton.</hi>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>This Meſſenger was in <hi>Exeter</hi> with our Commiſſion<g ref="char:EOLhyphen"/>ers, and can further inform you: He promiſes me to be at the Houſe on Saturday before you riſe; his ſpeed will deſerve your favour. I doubt not in my next, to aſſure you of <hi>Barnstable</hi> by what I perceive. On this day ſeven night the whole Army is to march Eaſt: Orders are out accordingly.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <p>AT <hi>Market-Jew</hi> neer the Mount, we took of the Mount men 60 priſoners, being the greater part of the Garriſon; alſo a Captain in <hi>Pendennis</hi> came off with 80 men more. We underſtand in <hi>Pendennis</hi> they have nothing but Salt-Beef tainted, and cannot ſubſiſt long; and little quantity of Bread; and their Wine almoſt ſpent. We hope well ſhortly of both thoſe places. Colonel <hi>Hamond</hi> writes as much.</p>
+            <closer>
+               <dateline>
+                  <hi>Tiverton,</hi> 
+                  <date>
+                     <hi>April</hi> 10.</date>
+               </dateline>
+Two in the Morning.
+<signed>J. R.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:159644:4"/>
+            <!-- PDF PAGE 18 -->
+            <head>To my Honored Friend <hi>Edmond Pride<g ref="char:EOLhyphen"/>aux</hi> Eſquire.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce my laſt from <hi>Bodman,</hi> I have ſpent two days with Col. <hi>Hamond</hi> at the Leaguer of <hi>Pendennis</hi> Caſtle; he hath almoſt perfected the Line from point to point, ſo that 'twill be a very difficult thing for any of them to ſtir abroad without our conſents: The laſt night there came Lieutenant Colonel <hi>Chapman,</hi> Captain <hi>Rives,</hi> and about fifty two men from them; we had an intimation of their coming before, which had we been certain of it, might have endangerd the Caſtle. They are all diſcontented, and jealous one of another, ſo that I beleeve the carry<g ref="char:EOLhyphen"/>ing of that Caſtle will be no long work. I had one to day with me from Maſter <hi>Godolphin</hi> of <hi>Silly;</hi> he begins to look upon my ſelf: I, ſent the Gentleman to Colonel <hi>Hamond,</hi> being unwilling to deal in any of theſe buſi<g ref="char:EOLhyphen"/>neſſes; tis probable ſomewhat may come of it: the like intimations there is from the Mount. The disbanding of the Army here, and the late defeat given <hi>Aſhley,</hi> are moſt excellent convincing arguments.</p>
+            <closer>
+               <signed>Your faithful Servant, <hi>Anth. Nicol.</hi>
+               </signed>
+               <dateline>
+                  <hi>Truro</hi> 
+                  <date>this 4 of <hi>April.</hi> 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:159644:4"/>
+            <!-- PDF PAGE 18 -->
+            <head>To the Honorrble <hi>William Lenthal</hi> 
+               <abbr>Eſq</abbr> Speaker to the Ho<g ref="char:EOLhyphen"/>norable Houſe of Commons.</head>
+            <opener>
+               <salute>Honorable Sir,</salute>
+            </opener>
+            <p>I Have often imbolden to trouble you with ſome lines from me, as of <hi>Cardiff,</hi> &amp;c. But now here arriving one Captain <hi>Bruie</hi> from <hi>Ireland</hi> yeſterday, I could not be ſilent, but make known the News: We have from thoſe parts, bleſſed be our good God, it is good, Capt. <hi>Robert Moulton</hi> Admiral of the Iriſh Sea, with ten ſail more ſet ſail March 1. from <hi>Kingſail</hi> with Eight hundred Soul<g ref="char:EOLhyphen"/>diers, and ſailed Weſtward: And it is credibly reported, that he hath fallen on <hi>Dingel de-Couch,</hi> where at firſt had ſome oppoſition, but at laſt took it, and found it very rich; but it not being Tenable, they Plundered it, ſet fire on it, and ſailed toward <hi>Limbrick,</hi> and hath taken a Caſtle, Mount <hi>Raccie,</hi> and Lord <hi>Tumount,</hi> who is now on board the Ships: And our Forces are Fortifying the ſaid Caſtle; and ſince their being on Land there, they have taken One hundred and twenty Horſe: <hi>Limbrick</hi> Merchant would very willingly have Surrendred the ſaid Town unto them, but was prevented. The Lord <hi>Broghill</hi> hath ſent Three hundred Horſe from <hi>Munſler</hi> to joyn with them; God in mercy proſper them, for the Enemy hath ſent <hi>Caſtle Haven</hi> with ſome Forces that way.</p>
+            <p>Captain <hi>Plunckets</hi> Ship hath taken a ſmall Man of War, with ſix Guns of <hi>Barnſtble,</hi> and a ſmall Frenchman laden with Wines, &amp;c. bound for <hi>Galloway.</hi>
+            </p>
+            <p>The contrary winds hinders me with the twenty ſail of Merchant men, and Colonel <hi>Jephſons</hi> Five hundred Horſe going for <hi>Ireland;</hi> we are all ready to ſet ſail the firſt wind; and had we but another Fleet, and two or Three thouſand men to fall on <hi>Dublin</hi> or that parts, there
+<pb n="8" facs="tcp:159644:5"/>
+               <!-- PDF PAGE 19 -->is great probability of gaining that City, and doing much on <hi>Ireland</hi> this Summer. The Lord proſper the work, ſaith he that is, and ſo ſhall remain,</p>
+            <closer>
+               <signed>Your Honours humble Servant, <hi>John Crouther.</hi>
+               </signed>
+               <dateline>
+                  <hi>Kingroad,</hi> 
+                  <date>9 <hi>April,</hi> 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <p>THe <hi>Wachford</hi> Men of War have taken one Captain <hi>Iohnſon</hi> of <hi>Plymouth,</hi> and one Capt. <hi>Paige</hi> of <hi>London,</hi> both Pirat men of War: We want Ships on Iriſh Coaſts.</p>
+            <closer>
+               <signed>Idem. <hi>J. C.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
